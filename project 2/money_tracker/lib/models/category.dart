@@ -1,0 +1,14 @@
+import 'package:drift/drift.dart';
+
+@DataClassName('Category')
+class Categories extends Table{
+
+  // write query here
+
+  IntColumn get id => integer().autoIncrement()();
+  TextColumn get name => text().withLength(max: 200)();
+  IntColumn get type => integer()();
+  DateTimeColumn get createdAt => dateTime()();
+  DateTimeColumn get updatedAt => dateTime()();
+  DateTimeColumn get deletedAt => dateTime().nullable()();
+}

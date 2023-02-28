@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "804702324891",
+    "firebase_url": "https://note-reminder-flutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "note-reminder-flutter",
+    "storage_bucket": "note-reminder-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804702324891:android:25e495eb508843735a5e3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVNZEaiTkS3m7bj1p2vCbu7p81KK2-q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804702324891:android:d3fcb4ac0bc1df165a5e3e",
+        "android_client_info": {
+          "package_name": "com.example.inser_data_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVNZEaiTkS3m7bj1p2vCbu7p81KK2-q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804702324891:android:23bf9e9defdc1f935a5e3e",
+        "android_client_info": {
+          "package_name": "com.example.reminder_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804702324891-5iihrknjv62smrknlo2ejce5pnfg4851.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reminder_notes",
+            "certificate_hash": "6f9f2472f2558054790d33dfcb5bc1a9b87d5b06"
+          }
+        },
+        {
+          "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVNZEaiTkS3m7bj1p2vCbu7p81KK2-q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804702324891:android:65476ce0eaabfe3a5a5e3e",
+        "android_client_info": {
+          "package_name": "com.example.shopping_flutter_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVNZEaiTkS3m7bj1p2vCbu7p81KK2-q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804702324891-72bg22gqqujsdh67ujb11g7g4hu1kn41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

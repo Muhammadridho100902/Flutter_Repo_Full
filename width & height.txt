@@ -1,0 +1,32 @@
+widht  = 392
+height = 737
+
+height 4 = 184,25
+height 6 = 122,83
+height 10 = 73,7
+height 12 = 61,41
+height 13 = 56,69
+height 14 = 52,64
+height 15 = 49,13
+height 16 = 46,062
+height 18 = 40,94
+height 20 = 36,85
+height 24 = 30,70
+height 30 = 24,56
+height 40 = 18,425
+height 50 = 14,74
+height 55 = 13,4
+height 60 = 12,28
+height 100 = 7,37
+height 400 = 1,842
+
+width 2 = 196
+width 4 = 98
+width 10 = 39,2
+width 15 = 26,13
+width 20 = 19.6
+width 80 = 4,9
+width 100 = 3,92
+width 120 = 3,26
+width 300 = 1,306
+
